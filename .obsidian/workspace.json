@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "b97bbf11f7471aa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "eccfda6a6e476e19",
+        "type": "tabs",
+        "dimension": 43.91244870041041,
+        "children": [
+          {
+            "id": "ed4e4cfec7608890",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1385624452be4dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/util/Transform.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f82c59c37837624b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": 233.22439489482417,
+                  "y": -305.67870359681433,
+                  "zoom": -0.9999999999999999
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ef3e6300cc8c75b7",
+        "type": "tabs",
+        "dimension": 56.08755129958959,
+        "children": [
+          {
+            "id": "89753fc4a1f0736e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/core/Context.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45685c3da3be70e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/Giraffe.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3d03ea84880120b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f02822afec506136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef55518df76af72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6378b25ec2c2a677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a89325513d2fcf26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "183b32ee6a98e531",
+    "type": "split",
+    "children": [
+      {
+        "id": "832a7fe2c3d3ad1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4dc7f0b8255bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "檔案/Giraffe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ca52cfcf353ad42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0550400c7e8ccf52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "檔案/Giraffe.md"
+              }
+            }
+          },
+          {
+            "id": "243d695e887abbd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "檔案/Giraffe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "45685c3da3be70e5",
+  "lastOpenFiles": [
+    "結構圖.canvas",
+    "未命名.canvas",
+    "2024-02-04.md",
+    "檔案/util/Transform.md",
+    "檔案/util/TransformUtils.md",
+    "用到的函數/GLM/scale().md",
+    "檔案/Giraffe.md",
+    "檔案/util/GameObject.md",
+    "檔案目錄.md",
+    "用到的函數/GLM/rotate().md",
+    "用到的函數/GLM/translate().md",
+    "用到的函數/GLM/ortho().md",
+    "用到的函數/GLM/vec2.md",
+    "檔案/App.md",
+    "檔案/util/BGM.md",
+    "用到的函數/move().md",
+    "main.md",
+    "未命名.md",
+    "檔案/util/Input.md",
+    "檔案/core/Context.md",
+    "檔案/main.md",
+    "檔案/core/IndexBuffer.md",
+    "檔案/core/Docs.md",
+    "檔案/core/DebugMessageCallback.md",
+    "函數庫/SDL.md",
+    "函數庫/OpenGL.md",
+    "函數庫/GLM.md",
+    "用到的函數/OpenGL",
+    "用到的函數/GLM",
+    "用到的函數/spdlog",
+    "用到的函數/SDL_Timer",
+    "檔案/util",
+    "檔案/core",
+    "用到的函數/GLEW/glBlendFunc()",
+    "用到的函數/OpenGL/glEnable",
+    "用到的函數/SDL_Video",
+    "用到的函數/GLEW",
+    "未命名 1.canvas"
+  ]
+}

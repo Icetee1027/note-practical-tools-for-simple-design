@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:函數庫 ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:檔案  ",
+      "color": {
+        "a": 1,
+        "rgb": 1321943
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.31413819204152,
+  "lineSizeMultiplier": 0.701903114186851,
+  "collapse-forces": false,
+  "centerStrength": 0.164359861591696,
+  "repelStrength": 2.45674740484429,
+  "linkStrength": 0.264705882352941,
+  "linkDistance": 78,
+  "scale": 0.5359795996225935,
+  "close": true
+}
