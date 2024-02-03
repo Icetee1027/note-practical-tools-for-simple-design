@@ -31,7 +31,7 @@
 		{"id":"728b26d27afbdf09","type":"text","text":"[[Texture]]","x":210,"y":40,"width":140,"height":50,"color":"#008000"},
 		{"id":"4338341cc9029452","type":"text","text":"[[Image]]","x":-24,"y":-380,"width":128,"height":50,"color":"#800080"},
 		{"id":"d2d6c8233172da90","type":"text","text":"[[TransformUtils]]","x":-65,"y":40,"width":210,"height":50,"color":"#800080"},
-		{"id":"3649888daae881de","type":"text","text":"[[Triangle]]  (已刪除)","x":472,"y":-620,"width":247,"height":50,"color":"#8b4513"}
+		{"id":"3649888daae881de","type":"text","text":"[[Triangle]]  (已刪除)","x":472,"y":-606,"width":247,"height":50,"color":"#8b4513"}
 	],
 	"edges":[
 		{"id":"862d873bc966b649","fromNode":"b8b2eccf77267493","fromSide":"bottom","toNode":"b53ea559f7a0b377","toSide":"top","color":"3"},

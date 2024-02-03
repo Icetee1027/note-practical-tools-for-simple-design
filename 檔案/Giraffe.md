@@ -9,7 +9,7 @@
 ----
 這兩個類別都繼承自 `Util::GameObject`，並實作了其虛擬函式。`GiraffeText` 類別用於表示一個特定的文字物件，而 `Giraffe` 類別則用於表示另一種物件，可能是一個整體的場景物件或其他實體。
 
-### `GiraffeText` 和 `Giraffe`：
+### `GiraffeText` 和 `Giraffe`：1
 
 #### `GiraffeText` 類別：
 
