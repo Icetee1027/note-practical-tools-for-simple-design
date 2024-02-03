@@ -72,7 +72,7 @@
               "type": "markdown",
               "state": {
                 "file": "檔案/Giraffe.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "檔案/Giraffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案目錄.md"
+                "file": "檔案/Giraffe.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "檔案/Giraffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,10 +207,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f82c59c37837624b",
+  "active": "45685c3da3be70e5",
   "lastOpenFiles": [
-    "檔案/Giraffe.md",
     "結構圖.canvas",
+    "檔案/Giraffe.md",
     "未命名.canvas",
     "2024-02-04.md",
     "檔案/util/Transform.md",
