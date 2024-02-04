@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efd7195def72c496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用到的函數/OpenGL/glGetIntegerv().md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4feb2a1aab99d01",
@@ -30,14 +44,12 @@
             "id": "45685c3da3be70e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": -714.9896434064991,
-                  "y": -106.39842337211738,
-                  "zoom": 0
-                }
+                "file": "用到的函數/OpenGL/glActiveTexture().md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/core/Drawable.md",
+                "file": "用到的函數/OpenGL/glActiveTexture().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/core/Drawable.md"
+                "file": "用到的函數/OpenGL/glActiveTexture().md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/core/Drawable.md",
+                "file": "用到的函數/OpenGL/glActiveTexture().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,9 +181,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "89753fc4a1f0736e",
+  "active": "45685c3da3be70e5",
   "lastOpenFiles": [
+    "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glGetIntegerv().md",
     "結構圖.canvas",
+    "檔案/core/Drawable.md",
     "檔案/core/Context.md",
     "檔案/Giraffe.md",
     "檔案/App.md",
@@ -196,8 +211,6 @@
     "檔案/main.md",
     "檔案/core/IndexBuffer.md",
     "檔案/core/Docs.md",
-    "檔案/core/DebugMessageCallback.md",
-    "函數庫/SDL.md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
