@@ -1,5 +1,8 @@
+- [[GL_VERTEX_SHADER]]
+- [[GL_FRAGMENT_SHADER]]
 - [[glCreateShader()]]
 - [[GLenum]]
+- [[GLuint]]
 - [[LoadTextFile]]
 - [[glDeleteShader()]]
 - [[glShaderSource()]]
