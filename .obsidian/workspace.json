@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glActiveTexture().md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glActiveTexture().md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glActiveTexture().md"
+                "file": "用到的函數/OpenGL/glTexImage2D().md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glActiveTexture().md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,10 @@
   "active": "45685c3da3be70e5",
   "lastOpenFiles": [
     "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glBindTexture().md",
+    "用到的函數/OpenGL/glDeleteTextures().md",
     "用到的函數/OpenGL/glGetIntegerv().md",
+    "用到的函數/OpenGL/glActiveTexture().md",
     "結構圖.canvas",
     "檔案/core/Drawable.md",
     "檔案/core/Context.md",
@@ -208,9 +211,6 @@
     "main.md",
     "未命名.md",
     "檔案/util/Input.md",
-    "檔案/main.md",
-    "檔案/core/IndexBuffer.md",
-    "檔案/core/Docs.md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",

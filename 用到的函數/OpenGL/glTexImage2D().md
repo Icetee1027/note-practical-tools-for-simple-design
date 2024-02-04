@@ -16,7 +16,7 @@ void glTexImage2D(GLenum target, GLint level, GLint internalformat, GLsizei widt
   - `GL_TEXTURE_3D`：三维纹理。
   - `GL_TEXTURE_CUBE_MAP_POSITIVE_X` 等：立方体贴图的各个面。
   - 等等，还有其他纹理类型。
-- `level`：指定要设定的纹理级别，通常为 0。
+- `level`：指定要设定的纹理级别，通常为 0 , 1 = 2分之1, 2= 4分之1...。
 - `internalformat`：指定纹理中的颜色组件的数量和数据类型。可选值包括：
   - `GL_RGBA`：每个像素包含 RGBA 四个分量。
   - `GL_RGB`：每个像素包含 RGB 三个分量。
@@ -24,7 +24,7 @@ void glTexImage2D(GLenum target, GLint level, GLint internalformat, GLsizei widt
   - 等等，还有其他格式。
 - `width`：指定纹理图像的宽度（以像素为单位）。
 - `height`：指定纹理图像的高度（以像素为单位）。
-- `border`：指定边框的宽度。必须为 0。
+- `border`：指定边框的宽度。通常为 0。
 - `format`：指定像素数据的格式。可选值包括：
   - `GL_RGBA`：每个像素包含 RGBA 四个分量。
   - `GL_RGB`：每个像素包含 RGB 三个分量。
