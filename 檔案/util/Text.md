@@ -1,6 +1,7 @@
 - [[TTF_OpenFont()]] 
 - [[TTF_CloseFont()]]
 - [[TTF_RenderUTF8_Blended_Wrapped()]]
+- [[SDL_Surface]]
 - [[SDL_Color]]
 - [[SDL_FreeSurface()]]
 - [[glGetUniformLocation()]]
@@ -12,9 +13,10 @@
 - [[VertexBuffer]]
 - [[IndexBuffer]]
 - [[UniformBuffer]]
+- [[TTF_Font]]
 ----
 這段程式碼定義了名為 `Text` 的類別，位於 `Util` 命名空間中，繼承自 `Core::Drawable`。它負責在畫面上繪製文字。以下是該類別的一些重要成員和功能：
-- **建構子**：接受三個參數，分別是字體的檔案路徑 `font`、文字大小 `size` 和欲顯示的文字內容 `text`。建構子會初始化一個 `TTF_Font` 物件，用來表示字體。
+- **建構子**：接受三個參數，分別是字體的檔案路徑 `font`、文字大小 `size` 和欲顯示的文字內容 `text`。建構子會初始化一個 [[TTF_Font]] 物件，用來表示字體。
 - **Draw 方法**：這是一個覆寫自 `Core::Drawable` 的虛擬函式，用來實作文字的繪製。它接受兩個參數，[[Transform]] 是一個 `Util::Transform` 物件，用來定位文字的位置和大小，`zIndex` 則是文字的 Z 軸位置。
 - **私有成員函式**：
   - `InitProgram`：初始化程式（Program），該程式負責將文字渲染到螢幕上。

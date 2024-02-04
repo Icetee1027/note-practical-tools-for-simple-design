@@ -32,9 +32,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c90cf8a947526f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/util/Text.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5c20105e15b7b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/util/Text.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b8e706102cc6a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用到的函數/SDL/SDL_Surface.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f01ec7201bf1e3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用到的函數/SDL_ttf/TTF_OpenFont().md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "f4feb2a1aab99d01",
@@ -44,16 +96,32 @@
             "id": "45685c3da3be70e5",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": 208.34148942927592,
+                  "y": -135.97892687482573,
+                  "zoom": -0.6666666666666669
+                }
+              }
+            }
+          },
+          {
+            "id": "85172a63ba4325ca",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glTexImage2D().md",
-                "mode": "preview",
+                "file": "檔案/core/Texture.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glTexImage2D().md",
+                "file": "用到的函數/SDL/SDL_Surface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glTexImage2D().md"
+                "file": "用到的函數/SDL/SDL_Surface.md"
               }
             }
           },
@@ -152,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glTexImage2D().md",
+                "file": "用到的函數/SDL/SDL_Surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,14 +249,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "45685c3da3be70e5",
+  "active": "8b8e706102cc6a70",
   "lastOpenFiles": [
+    "檔案/util/Text.md",
+    "用到的函數/SDL/SDL_Surface.md",
+    "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
     "檔案/core/Texture.md",
+    "結構圖.canvas",
+    "用到的函數/SDL_ttf/TTF_Font.md",
+    "用到的函數/SDL_ttf/TTF_OpenFont().md",
+    "用到的函數/OpenGL/glTexParameteri().md",
+    "用到的函數/OpenGL/glTexImage2D().md",
     "用到的函數/OpenGL/glBindTexture().md",
     "用到的函數/OpenGL/glDeleteTextures().md",
     "用到的函數/OpenGL/glGetIntegerv().md",
     "用到的函數/OpenGL/glActiveTexture().md",
-    "結構圖.canvas",
     "檔案/core/Drawable.md",
     "檔案/core/Context.md",
     "檔案/Giraffe.md",
@@ -204,13 +279,6 @@
     "檔案/util/GameObject.md",
     "用到的函數/GLM/rotate().md",
     "用到的函數/GLM/translate().md",
-    "用到的函數/GLM/ortho().md",
-    "用到的函數/GLM/vec2.md",
-    "檔案/util/BGM.md",
-    "用到的函數/move().md",
-    "main.md",
-    "未命名.md",
-    "檔案/util/Input.md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
