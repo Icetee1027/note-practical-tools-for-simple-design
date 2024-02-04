@@ -14,27 +14,34 @@
               "type": "markdown",
               "state": {
                 "file": "檔案/core/Context.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f4feb2a1aab99d01",
+        "type": "tabs",
+        "children": [
           {
             "id": "45685c3da3be70e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "檔案目錄.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": 70.15074304656541,
+                  "y": -79.13765671077032,
+                  "zoom": -1.3333333333333333
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "結構圖.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案目錄.md"
+                "file": "結構圖.canvas"
               }
             }
           },
@@ -133,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "結構圖.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,12 +171,14 @@
   },
   "active": "45685c3da3be70e5",
   "lastOpenFiles": [
-    "檔案/util/Transform.md",
-    "檔案目錄.md",
-    "檔案/App.md",
-    "链接地址.md",
+    "檔案/core/Context.md",
     "結構圖.canvas",
     "檔案/Giraffe.md",
+    "檔案/App.md",
+    "檔案目錄.md",
+    "檔案/Triangle(刪).md",
+    "檔案/util/Transform.md",
+    "链接地址.md",
     "未命名.canvas",
     "2024-02-04.md",
     "檔案/util/TransformUtils.md",
@@ -184,14 +193,11 @@
     "main.md",
     "未命名.md",
     "檔案/util/Input.md",
-    "檔案/core/Context.md",
     "檔案/main.md",
     "檔案/core/IndexBuffer.md",
     "檔案/core/Docs.md",
     "檔案/core/DebugMessageCallback.md",
     "函數庫/SDL.md",
-    "函數庫/OpenGL.md",
-    "函數庫/GLM.md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",

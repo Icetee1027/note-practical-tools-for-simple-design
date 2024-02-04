@@ -3,7 +3,7 @@
 - [[Keycode]]
 - [[Logger]]
 - [[Giraffe]]
-- [[Triangle]]
+- [[Triangle(刪)]]
 
 ----
 這些函式共同組成了 `App` 類別的行為，用於啟動、更新和結束應用程式的運行。
