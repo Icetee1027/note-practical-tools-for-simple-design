@@ -46,14 +46,12 @@
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": -728.0193590002435,
-                  "y": -350.4718273378601,
-                  "zoom": -0.3003964184393668
-                }
+                "file": "檔案/util/LoadTextFile.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/LoadTextFile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "檔案/util/LoadTextFile.md"
               }
             }
           },
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/LoadTextFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,16 +198,16 @@
   },
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "檔案/core/Shader.md",
+    "用到的函數/OpenGL/glCompileShader().md",
+    "用到的函數/OpenGL/glShaderSource().md",
+    "用到的函數/OpenGL/glCreateShader().md",
+    "結構圖.canvas",
     "檔案/core/IndexBuffer.md",
     "檔案/core/VertexArray.md",
     "檔案/core/VertexBuffer.md",
     "檔案目錄.md",
-    "用到的函數/OpenGL/glShaderSource().md",
-    "結構圖.canvas",
-    "檔案/core/Shader.md",
-    "用到的函數/OpenGL/glCompileShader().md",
     "用到的函數/OpenGL/GLuint.md",
-    "用到的函數/OpenGL/glCreateShader().md",
     "用到的函數/OpenGL/GLenum.md",
     "檔案/core/Program.md",
     "用到的函數/OpenGL/glUseProgram().md",
@@ -226,7 +224,6 @@
     "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
     "用到的函數/SDL_ttf/TTF_Font.md",
     "用到的函數/SDL_ttf/TTF_OpenFont().md",
-    "用到的函數/OpenGL/glTexParameteri().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
