@@ -6,6 +6,7 @@
       {
         "id": "ef3e6300cc8c75b7",
         "type": "tabs",
+        "dimension": 43.64754098360656,
         "children": [
           {
             "id": "45685c3da3be70e5",
@@ -19,12 +20,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fccc31bfe8db53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用到的函數/OpenGL/glShaderSource().md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4feb2a1aab99d01",
         "type": "tabs",
+        "dimension": 56.35245901639344,
         "children": [
           {
             "id": "85172a63ba4325ca",
@@ -47,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glUseProgram().md",
+                "file": "檔案/core/Shader.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glUseProgram().md",
+                "file": "用到的函數/OpenGL/glShaderSource().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glUseProgram().md"
+                "file": "用到的函數/OpenGL/glShaderSource().md"
               }
             }
           },
@@ -154,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glUseProgram().md",
+                "file": "用到的函數/OpenGL/glShaderSource().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +199,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fa8a40e84df445d4",
+  "active": "3fccc31bfe8db53e",
   "lastOpenFiles": [
+    "檔案/core/Shader.md",
+    "用到的函數/OpenGL/glCompileShader().md",
+    "用到的函數/OpenGL/glShaderSource().md",
+    "用到的函數/OpenGL/GLuint.md",
+    "用到的函數/OpenGL/glCreateShader().md",
+    "用到的函數/OpenGL/GLenum.md",
     "檔案/core/Program.md",
     "用到的函數/OpenGL/glUseProgram().md",
     "用到的函數/OpenGL/glCreateProgram().md",
-    "檔案/core/Shader.md",
-    "用到的函數/OpenGL/GLuint.md",
     "用到的函數/GLEW/GL_FRAGMENT_SHADER.md",
     "檔案/core/Context.md",
     "用到的函數/GLEW/GL_VERTEX_SHADER.md",
@@ -208,10 +228,6 @@
     "用到的函數/OpenGL/glBindTexture().md",
     "用到的函數/OpenGL/glDeleteTextures().md",
     "用到的函數/OpenGL/glActiveTexture().md",
-    "檔案/Giraffe.md",
-    "檔案/App.md",
-    "檔案目錄.md",
-    "檔案/Triangle(刪).md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
