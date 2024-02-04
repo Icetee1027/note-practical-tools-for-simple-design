@@ -7,6 +7,7 @@
 - [[VertexBuffer]]
 - [[IndexBuffer]]
 - [[UniformBuffer]]
+- [[SDL_Surface]]
 
 ----
 這段程式碼定義了名為 `Image` 的類別，位於 `Util` 命名空間中，用於表示圖像並實現可繪製介面（`Drawable`）。下面是這個類別的一些重要特點和功能：

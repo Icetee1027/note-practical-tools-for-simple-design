@@ -53,8 +53,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "用到的函數/SDL/SDL_Surface.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18cccb0427764caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用到的函數/OpenGL/glTexParameteri().md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -76,8 +89,8 @@
               "state": {
                 "file": "結構圖.canvas",
                 "viewState": {
-                  "x": 232.09622056935677,
-                  "y": 17.6658643646484,
+                  "x": 386.27446900622243,
+                  "y": -123.5274787432243,
                   "zoom": -0.31425912268374256
                 }
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "結構圖.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md"
+                "file": "結構圖.canvas"
               }
             }
           },
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "結構圖.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,14 +251,22 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "52b81a7ae4746571",
+  "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "用到的函數/SDL/SDL_Surface.md",
+    "檔案/util/Image.md",
+    "用到的函數/SDL/SDL_FreeSurface().md",
+    "結構圖.canvas",
+    "用到的函數/OpenGL/glTexParameteri().md",
+    "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glTexImage2D().md",
+    "用到的函數/OpenGL/glActiveTexture().md",
     "檔案/core/VertexArray.md",
+    "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
     "檔案/core/VertexBuffer.md",
     "用到的函數/OpenGL/glBufferData().md",
     "用到的函數/OpenGL/glDeleteBuffers().md",
-    "結構圖.canvas",
     "檔案/core/Shader.md",
     "用到的函數/GLEW/GL_VERTEX_SHADER.md",
     "檔案/core/Drawable.md",
@@ -259,14 +280,6 @@
     "用到的函數/OpenGL/glCompileShader().md",
     "用到的函數/OpenGL/glShaderSource().md",
     "用到的函數/OpenGL/glCreateShader().md",
-    "檔案/core/IndexBuffer.md",
-    "用到的函數/OpenGL/GLuint.md",
-    "用到的函數/OpenGL/GLenum.md",
-    "用到的函數/OpenGL/glUseProgram().md",
-    "用到的函數/OpenGL/glCreateProgram().md",
-    "用到的函數/GLEW/GL_FRAGMENT_SHADER.md",
-    "檔案/core/Context.md",
-    "檔案/core/Texture.md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
