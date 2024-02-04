@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/core/Context.md",
+                "file": "檔案/core/Drawable.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -34,9 +34,9 @@
               "state": {
                 "file": "結構圖.canvas",
                 "viewState": {
-                  "x": 70.15074304656541,
-                  "y": -79.13765671077032,
-                  "zoom": -1.3333333333333333
+                  "x": -714.9896434064991,
+                  "y": -106.39842337211738,
+                  "zoom": 0
                 }
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/core/Drawable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "檔案/core/Drawable.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/core/Drawable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +169,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "45685c3da3be70e5",
+  "active": "89753fc4a1f0736e",
   "lastOpenFiles": [
-    "檔案/core/Context.md",
     "結構圖.canvas",
+    "檔案/core/Context.md",
     "檔案/Giraffe.md",
     "檔案/App.md",
     "檔案目錄.md",
