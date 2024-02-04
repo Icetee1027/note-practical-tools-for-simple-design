@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/core/VertexArray.md",
+                "file": "用到的函數/OpenGL/glBufferData().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -76,8 +76,8 @@
               "state": {
                 "file": "結構圖.canvas",
                 "viewState": {
-                  "x": -97.39761681588054,
-                  "y": -151.43284796453105,
+                  "x": 232.09622056935677,
+                  "y": 17.6658643646484,
                   "zoom": -0.31425912268374256
                 }
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "用到的函數/OpenGL/glBufferData().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "用到的函數/OpenGL/glBufferData().md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "用到的函數/OpenGL/glBufferData().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,12 +238,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "85172a63ba4325ca",
+  "active": "52b81a7ae4746571",
   "lastOpenFiles": [
+    "檔案/core/VertexBuffer.md",
+    "用到的函數/OpenGL/glDeleteBuffers().md",
+    "檔案/core/VertexArray.md",
+    "用到的函數/OpenGL/glEnableVertexAttribArray().md",
+    "結構圖.canvas",
     "檔案/core/Shader.md",
     "用到的函數/GLEW/GL_VERTEX_SHADER.md",
-    "結構圖.canvas",
-    "檔案/core/VertexArray.md",
     "檔案/core/Drawable.md",
     "用到的函數/GLM/mat4.md",
     "檔案目錄.md",
@@ -256,7 +259,6 @@
     "用到的函數/OpenGL/glShaderSource().md",
     "用到的函數/OpenGL/glCreateShader().md",
     "檔案/core/IndexBuffer.md",
-    "檔案/core/VertexBuffer.md",
     "用到的函數/OpenGL/GLuint.md",
     "用到的函數/OpenGL/GLenum.md",
     "用到的函數/OpenGL/glUseProgram().md",
@@ -265,7 +267,6 @@
     "檔案/core/Context.md",
     "檔案/core/Texture.md",
     "用到的函數/OpenGL/glGetIntegerv().md",
-    "檔案/util/Text.md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
