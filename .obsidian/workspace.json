@@ -4,53 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "eccfda6a6e476e19",
-        "type": "tabs",
-        "dimension": 43.91244870041041,
-        "children": [
-          {
-            "id": "ed4e4cfec7608890",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1385624452be4dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/util/Transform.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82c59c37837624b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": 325.2244559299804,
-                  "y": -455.0116808917362,
-                  "zoom": -0.9999999999999999
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "ef3e6300cc8c75b7",
         "type": "tabs",
-        "dimension": 56.08755129958959,
         "children": [
           {
             "id": "89753fc4a1f0736e",
@@ -71,10 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/Giraffe.md",
+                "file": "檔案目錄.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -145,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/Giraffe.md",
+                "file": "檔案目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/Giraffe.md"
+                "file": "檔案目錄.md"
               }
             }
           },
@@ -178,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/Giraffe.md",
+                "file": "檔案目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,20 +164,21 @@
   },
   "active": "45685c3da3be70e5",
   "lastOpenFiles": [
+    "檔案/util/Transform.md",
+    "檔案目錄.md",
+    "檔案/App.md",
+    "链接地址.md",
     "結構圖.canvas",
     "檔案/Giraffe.md",
     "未命名.canvas",
     "2024-02-04.md",
-    "檔案/util/Transform.md",
     "檔案/util/TransformUtils.md",
     "用到的函數/GLM/scale().md",
     "檔案/util/GameObject.md",
-    "檔案目錄.md",
     "用到的函數/GLM/rotate().md",
     "用到的函數/GLM/translate().md",
     "用到的函數/GLM/ortho().md",
     "用到的函數/GLM/vec2.md",
-    "檔案/App.md",
     "檔案/util/BGM.md",
     "用到的函數/move().md",
     "main.md",
