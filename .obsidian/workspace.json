@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferData().md",
+                "file": "用到的函數/OpenGL/glDrawElements().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferData().md",
+                "file": "用到的函數/OpenGL/glDrawElements().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferData().md"
+                "file": "用到的函數/OpenGL/glDrawElements().md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferData().md",
+                "file": "用到的函數/OpenGL/glDrawElements().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,10 +240,11 @@
   },
   "active": "52b81a7ae4746571",
   "lastOpenFiles": [
-    "檔案/core/VertexBuffer.md",
-    "用到的函數/OpenGL/glDeleteBuffers().md",
     "檔案/core/VertexArray.md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
+    "檔案/core/VertexBuffer.md",
+    "用到的函數/OpenGL/glBufferData().md",
+    "用到的函數/OpenGL/glDeleteBuffers().md",
     "結構圖.canvas",
     "檔案/core/Shader.md",
     "用到的函數/GLEW/GL_VERTEX_SHADER.md",
@@ -266,7 +267,6 @@
     "用到的函數/GLEW/GL_FRAGMENT_SHADER.md",
     "檔案/core/Context.md",
     "檔案/core/Texture.md",
-    "用到的函數/OpenGL/glGetIntegerv().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
