@@ -8,6 +8,7 @@
 - [[GL_TRUE]]
 - [[GL_FALSE]]
 - [[glGetProgramInfoLog()]]
+- [[glValidateProgram()]]
 
 ----
 這段程式碼定義了名為 `Program` 的類別，位於 `Core` 命名空間中。在[[OpenGL]]中，Program代表由多個Shader文件編譯和鏈接在一起的對象。通常，一個Program至少需要包含一個頂點着色器（vertex shader）和一個片段着色器（fragment shader），但也可以包含其他可選的中間層，如幾何着色器（geometry shader）或曲面劃分着色器（tessellation shader）。

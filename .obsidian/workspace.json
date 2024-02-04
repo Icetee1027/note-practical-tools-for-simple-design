@@ -6,7 +6,7 @@
       {
         "id": "ef3e6300cc8c75b7",
         "type": "tabs",
-        "dimension": 43.64754098360656,
+        "dimension": 56.929637526652456,
         "children": [
           {
             "id": "45685c3da3be70e5",
@@ -33,23 +33,64 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34bc3167a4892d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/core/UniformBuffer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b81a7ae4746571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "檔案/core/VertexArray.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "f4feb2a1aab99d01",
         "type": "tabs",
-        "dimension": 56.35245901639344,
+        "dimension": 43.070362473347544,
         "children": [
           {
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": -97.39761681588054,
+                  "y": -151.43284796453105,
+                  "zoom": -0.31425912268374256
+                }
+              }
+            }
+          },
+          {
+            "id": "0be3cc654d16238e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/util/LoadTextFile.md",
-                "mode": "preview",
+                "file": "檔案/core/Drawable.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -118,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "183b32ee6a98e531",
@@ -134,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/util/LoadTextFile.md",
+                "file": "結構圖.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/util/LoadTextFile.md"
+                "file": "結構圖.canvas"
               }
             }
           },
@@ -167,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/util/LoadTextFile.md",
+                "file": "結構圖.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,31 +241,31 @@
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
     "檔案/core/Shader.md",
+    "用到的函數/GLEW/GL_VERTEX_SHADER.md",
+    "結構圖.canvas",
+    "檔案/core/VertexArray.md",
+    "檔案/core/Drawable.md",
+    "用到的函數/GLM/mat4.md",
+    "檔案目錄.md",
+    "檔案/core/Program.md",
+    "檔案/core/UniformBuffer.md",
+    "用到的函數/OpenGL/glGetProgramiv().md",
+    "用到的函數/OpenGL/glValidateProgram().md",
+    "檔案/util/LoadTextFile.md",
     "用到的函數/OpenGL/glCompileShader().md",
     "用到的函數/OpenGL/glShaderSource().md",
     "用到的函數/OpenGL/glCreateShader().md",
-    "結構圖.canvas",
     "檔案/core/IndexBuffer.md",
-    "檔案/core/VertexArray.md",
     "檔案/core/VertexBuffer.md",
-    "檔案目錄.md",
     "用到的函數/OpenGL/GLuint.md",
     "用到的函數/OpenGL/GLenum.md",
-    "檔案/core/Program.md",
     "用到的函數/OpenGL/glUseProgram().md",
     "用到的函數/OpenGL/glCreateProgram().md",
     "用到的函數/GLEW/GL_FRAGMENT_SHADER.md",
     "檔案/core/Context.md",
-    "用到的函數/GLEW/GL_VERTEX_SHADER.md",
     "檔案/core/Texture.md",
     "用到的函數/OpenGL/glGetIntegerv().md",
-    "檔案/core/Drawable.md",
     "檔案/util/Text.md",
-    "用到的函數/SDL/SDL_Surface.md",
-    "用到的函數/SDL/SDL_PixelFormat.md",
-    "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
-    "用到的函數/SDL_ttf/TTF_Font.md",
-    "用到的函數/SDL_ttf/TTF_OpenFont().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
