@@ -85,14 +85,12 @@
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": 278.7211970874202,
-                  "y": -518.6489154534281,
-                  "zoom": -0.9320161380068329
-                }
+                "file": "檔案/util/Input.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -201,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "檔案/util/Input.md"
               }
             }
           },
@@ -234,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,12 +261,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6ef55518df76af72",
+  "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "結構圖.canvas",
+    "檔案/core/Program.md",
     "檔案/util/Time.md",
     "未命名.canvas",
     "用到的函數/SDL_Timer/SDL_GetPerformanceCounter().md",
-    "結構圖.canvas",
     "檔案/util/Text.md",
     "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
     "檔案/core/UniformBuffer.md",
@@ -291,7 +290,6 @@
     "用到的函數/OpenGL/glGetUniformBlockIndex().md",
     "用到的函數/SDL/SDL_FreeSurface().md",
     "用到的函數/OpenGL/glTexParameteri().md",
-    "用到的函數/OpenGL/glTexImage2D().md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
