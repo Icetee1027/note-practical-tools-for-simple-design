@@ -85,9 +85,24 @@
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": 229.00801440672905,
+                  "y": -408.9824358658692,
+                  "zoom": -0.2653494713401663
+                }
+              }
+            }
+          },
+          {
+            "id": "6475694d7fbd56d2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferSubData().md",
+                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferSubData().md",
+                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferSubData().md"
+                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md"
               }
             }
           },
@@ -219,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glBufferSubData().md",
+                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,11 +264,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "85172a63ba4325ca",
+  "active": "6475694d7fbd56d2",
   "lastOpenFiles": [
-    "檔案/core/UniformBuffer.md",
-    "用到的函數/OpenGL/glBufferData().md",
+    "檔案/util/Text.md",
     "結構圖.canvas",
+    "檔案/core/UniformBuffer.md",
+    "用到的函數/OpenGL/glBufferSubData().md",
+    "用到的函數/OpenGL/glBufferData().md",
     "檔案目錄.md",
     "檔案/core/Drawable.md",
     "檔案/util/Image.md",
@@ -275,7 +293,6 @@
     "檔案/core/VertexArray.md",
     "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
-    "檔案/core/VertexBuffer.md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
