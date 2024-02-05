@@ -87,8 +87,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/core/Drawable.md",
-                "mode": "preview",
+                "file": "用到的函數/OpenGL/glBufferSubData().md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/core/Drawable.md",
+                "file": "用到的函數/OpenGL/glBufferSubData().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/core/Drawable.md"
+                "file": "用到的函數/OpenGL/glBufferSubData().md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/core/Drawable.md",
+                "file": "用到的函數/OpenGL/glBufferSubData().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,19 +250,20 @@
   },
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "檔案/core/UniformBuffer.md",
+    "用到的函數/OpenGL/glBufferData().md",
     "結構圖.canvas",
+    "檔案目錄.md",
+    "檔案/core/Drawable.md",
     "檔案/util/Image.md",
     "檔案/util/TransformUtils.md",
     "用到的函數/GLM/rotate().md",
-    "檔案目錄.md",
     "用到的函數/OpenGL/glUniform1i().md",
     "用到的函數/OpenGL/glGetUniformLocation().md",
     "檔案/core/Texture.md",
     "用到的函數/SDL/SDL_Surface.md",
     "用到的函數/SDL_image/IMG_Load().md",
-    "檔案/core/UniformBuffer.md",
     "用到的函數/OpenGL/glBindBufferBase().md",
-    "用到的函數/OpenGL/glBufferData().md",
     "用到的函數/OpenGL/glBindBuffer().md",
     "用到的函數/OpenGL/glGenBuffers().md",
     "用到的函數/OpenGL/glUniformBlockBinding().md",
@@ -275,7 +276,6 @@
     "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
     "檔案/core/VertexBuffer.md",
-    "用到的函數/OpenGL/glDeleteBuffers().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
