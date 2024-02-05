@@ -85,14 +85,12 @@
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": 229.00801440672905,
-                  "y": -408.9824358658692,
-                  "zoom": -0.2653494713401663
-                }
+                "file": "檔案/util/Time.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -102,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
+                "file": "檔案/util/Text.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,8 +133,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
+                "file": "檔案/util/Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md"
+                "file": "檔案/util/Time.md"
               }
             }
           },
@@ -235,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
+                "file": "檔案/util/Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,10 +261,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6475694d7fbd56d2",
+  "active": "85172a63ba4325ca",
   "lastOpenFiles": [
-    "檔案/util/Text.md",
+    "用到的函數/SDL_Timer/SDL_GetPerformanceCounter().md",
+    "檔案/util/Time.md",
     "結構圖.canvas",
+    "檔案/util/Text.md",
+    "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
     "檔案/core/UniformBuffer.md",
     "用到的函數/OpenGL/glBufferSubData().md",
     "用到的函數/OpenGL/glBufferData().md",
@@ -290,9 +290,6 @@
     "用到的函數/OpenGL/glTexParameteri().md",
     "用到的函數/OpenGL/glTexImage2D().md",
     "用到的函數/OpenGL/glActiveTexture().md",
-    "檔案/core/VertexArray.md",
-    "用到的函數/OpenGL/glDrawElements().md",
-    "用到的函數/OpenGL/glEnableVertexAttribArray().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
