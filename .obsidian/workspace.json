@@ -6,7 +6,7 @@
       {
         "id": "ef3e6300cc8c75b7",
         "type": "tabs",
-        "dimension": 56.929637526652456,
+        "dimension": 48.767288033674085,
         "children": [
           {
             "id": "45685c3da3be70e5",
@@ -79,20 +79,18 @@
       {
         "id": "f4feb2a1aab99d01",
         "type": "tabs",
-        "dimension": 43.070362473347544,
+        "dimension": 51.232711966325915,
         "children": [
           {
             "id": "85172a63ba4325ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": 386.27446900622243,
-                  "y": -123.5274787432243,
-                  "zoom": -0.31425912268374256
-                }
+                "file": "用到的函數/OpenGL/glBindBufferBase().md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -189,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "用到的函數/OpenGL/glBindBufferBase().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "用到的函數/OpenGL/glBindBufferBase().md"
               }
             }
           },
@@ -222,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "用到的函數/OpenGL/glBindBufferBase().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,10 +251,16 @@
   },
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "檔案/core/UniformBuffer.md",
+    "用到的函數/OpenGL/glBufferData().md",
+    "用到的函數/OpenGL/glBindBuffer().md",
+    "用到的函數/OpenGL/glGenBuffers().md",
+    "用到的函數/OpenGL/glUniformBlockBinding().md",
+    "用到的函數/OpenGL/glGetUniformBlockIndex().md",
+    "結構圖.canvas",
     "用到的函數/SDL/SDL_Surface.md",
     "檔案/util/Image.md",
     "用到的函數/SDL/SDL_FreeSurface().md",
-    "結構圖.canvas",
     "用到的函數/OpenGL/glTexParameteri().md",
     "檔案/core/Texture.md",
     "用到的函數/OpenGL/glTexImage2D().md",
@@ -265,7 +269,6 @@
     "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
     "檔案/core/VertexBuffer.md",
-    "用到的函數/OpenGL/glBufferData().md",
     "用到的函數/OpenGL/glDeleteBuffers().md",
     "檔案/core/Shader.md",
     "用到的函數/GLEW/GL_VERTEX_SHADER.md",
@@ -273,13 +276,8 @@
     "用到的函數/GLM/mat4.md",
     "檔案目錄.md",
     "檔案/core/Program.md",
-    "檔案/core/UniformBuffer.md",
     "用到的函數/OpenGL/glGetProgramiv().md",
     "用到的函數/OpenGL/glValidateProgram().md",
-    "檔案/util/LoadTextFile.md",
-    "用到的函數/OpenGL/glCompileShader().md",
-    "用到的函數/OpenGL/glShaderSource().md",
-    "用到的函數/OpenGL/glCreateShader().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
