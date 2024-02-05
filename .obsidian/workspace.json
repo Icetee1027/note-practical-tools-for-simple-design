@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/util/Image.md",
+                "file": "用到的函數/OpenGL/glUniform1i().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/util/Image.md",
+                "file": "用到的函數/OpenGL/glUniform1i().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/util/Image.md"
+                "file": "用到的函數/OpenGL/glUniform1i().md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/util/Image.md",
+                "file": "用到的函數/OpenGL/glUniform1i().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,8 +251,9 @@
   },
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
-    "檔案/core/Texture.md",
     "檔案/util/Image.md",
+    "用到的函數/OpenGL/glGetUniformLocation().md",
+    "檔案/core/Texture.md",
     "用到的函數/SDL/SDL_Surface.md",
     "用到的函數/SDL_image/IMG_Load().md",
     "結構圖.canvas",
@@ -277,7 +278,6 @@
     "檔案/core/Drawable.md",
     "用到的函數/GLM/mat4.md",
     "檔案目錄.md",
-    "檔案/core/Program.md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
