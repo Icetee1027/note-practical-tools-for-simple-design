@@ -66,15 +66,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glTexParameteri().md",
-                "mode": "source",
+                "file": "用到的函數/SDL_image/IMG_Load().md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f4feb2a1aab99d01",
@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glBindBufferBase().md",
+                "file": "檔案/util/Image.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glBindBufferBase().md",
+                "file": "用到的函數/SDL_image/IMG_Load().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glBindBufferBase().md"
+                "file": "用到的函數/SDL_image/IMG_Load().md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glBindBufferBase().md",
+                "file": "用到的函數/SDL_image/IMG_Load().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,17 +249,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "85172a63ba4325ca",
+  "active": "18cccb0427764caf",
   "lastOpenFiles": [
+    "檔案/util/Image.md",
+    "結構圖.canvas",
     "檔案/core/UniformBuffer.md",
+    "用到的函數/OpenGL/glBindBufferBase().md",
     "用到的函數/OpenGL/glBufferData().md",
     "用到的函數/OpenGL/glBindBuffer().md",
     "用到的函數/OpenGL/glGenBuffers().md",
     "用到的函數/OpenGL/glUniformBlockBinding().md",
     "用到的函數/OpenGL/glGetUniformBlockIndex().md",
-    "結構圖.canvas",
     "用到的函數/SDL/SDL_Surface.md",
-    "檔案/util/Image.md",
     "用到的函數/SDL/SDL_FreeSurface().md",
     "用到的函數/OpenGL/glTexParameteri().md",
     "檔案/core/Texture.md",
@@ -276,8 +277,6 @@
     "用到的函數/GLM/mat4.md",
     "檔案目錄.md",
     "檔案/core/Program.md",
-    "用到的函數/OpenGL/glGetProgramiv().md",
-    "用到的函數/OpenGL/glValidateProgram().md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
