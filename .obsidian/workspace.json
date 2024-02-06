@@ -4,130 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3e6300cc8c75b7",
+        "id": "a7ef504ed8b46f8a",
         "type": "tabs",
-        "dimension": 48.767288033674085,
         "children": [
           {
-            "id": "45685c3da3be70e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/core/Program.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fccc31bfe8db53e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/core/IndexBuffer.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34bc3167a4892d0f",
+            "id": "eba5eaa7cbe09317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "檔案/core/UniformBuffer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52b81a7ae4746571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "用到的函數/SDL/SDL_Surface.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18cccb0427764caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "用到的函數/SDL_image/IMG_Load().md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "f4feb2a1aab99d01",
-        "type": "tabs",
-        "dimension": 51.232711966325915,
-        "children": [
-          {
-            "id": "85172a63ba4325ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/core/Texture.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6475694d7fbd56d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/util/Text.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be3cc654d16238e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/core/Drawable.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8a40e84df445d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "檔案/core/Shader.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -199,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/core/Texture.md",
+                "file": "檔案/core/UniformBuffer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/core/Texture.md"
+                "file": "檔案/core/UniformBuffer.md"
               }
             }
           },
@@ -232,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/core/Texture.md",
+                "file": "檔案/core/UniformBuffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,16 +148,20 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "85172a63ba4325ca",
+  "active": "eba5eaa7cbe09317",
   "lastOpenFiles": [
-    "用到的函數/OpenGL/glTexParameteri().md",
-    "檔案/core/Texture.md",
-    "用到的函數/OpenGL/glTexImage2D().md",
+    "用到的函數/OpenGL/glBindBufferBase().md",
+    "檔案/core/UniformBuffer.md",
     "結構圖.canvas",
+    "檔案目錄.md",
+    "檔案/core/Program.md",
+    "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glActiveTexture().md",
+    "用到的函數/OpenGL/glTexParameteri().md",
+    "用到的函數/OpenGL/glTexImage2D().md",
     "檔案/core/VertexArray.md",
     "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
-    "檔案/core/Program.md",
     "用到的函數/OpenGL/glGetProgramiv().md",
     "用到的函數/OpenGL/glValidateProgram().md",
     "檔案/core/Shader.md",
@@ -281,16 +172,12 @@
     "用到的函數/SDL_Timer/SDL_GetPerformanceCounter().md",
     "檔案/util/Text.md",
     "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
-    "檔案/core/UniformBuffer.md",
     "用到的函數/OpenGL/glBufferSubData().md",
     "用到的函數/OpenGL/glBufferData().md",
-    "檔案目錄.md",
     "檔案/core/Drawable.md",
     "檔案/util/Image.md",
     "檔案/util/TransformUtils.md",
     "用到的函數/GLM/rotate().md",
-    "用到的函數/OpenGL/glUniform1i().md",
-    "用到的函數/OpenGL/glGetUniformLocation().md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
