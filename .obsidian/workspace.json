@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/util/Input.md"
+                "file": "用到的函數/OpenGL/glTexImage2D().md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,9 @@
   },
   "active": "85172a63ba4325ca",
   "lastOpenFiles": [
+    "檔案/core/Texture.md",
     "結構圖.canvas",
+    "檔案/util/Input.md",
     "檔案/core/Program.md",
     "檔案/util/Time.md",
     "未命名.canvas",
@@ -280,7 +282,6 @@
     "用到的函數/GLM/rotate().md",
     "用到的函數/OpenGL/glUniform1i().md",
     "用到的函數/OpenGL/glGetUniformLocation().md",
-    "檔案/core/Texture.md",
     "用到的函數/SDL/SDL_Surface.md",
     "用到的函數/SDL_image/IMG_Load().md",
     "用到的函數/OpenGL/glBindBufferBase().md",
@@ -289,7 +290,6 @@
     "用到的函數/OpenGL/glUniformBlockBinding().md",
     "用到的函數/OpenGL/glGetUniformBlockIndex().md",
     "用到的函數/SDL/SDL_FreeSurface().md",
-    "用到的函數/OpenGL/glTexParameteri().md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
