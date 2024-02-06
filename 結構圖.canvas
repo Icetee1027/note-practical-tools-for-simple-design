@@ -32,7 +32,7 @@
 		{"id":"d2d6c8233172da90","type":"text","text":"[[TransformUtils]]","x":-65,"y":40,"width":210,"height":50,"color":"#0400e6"},
 		{"id":"3649888daae881de","type":"text","text":"[[Triangle(刪)]]  ","x":472,"y":-606,"width":247,"height":50,"color":"#8b4513"},
 		{"id":"b8b2eccf77267493","type":"text","text":"[[main]]","x":190,"y":-920,"width":120,"height":50,"color":"#8b4513"},
-		{"id":"609737eabb0cf937","type":"text","text":"Camera","x":157,"y":-464,"width":148,"height":75,"color":"2"}
+		{"id":"609737eabb0cf937","type":"text","text":"Camera","x":366,"y":-765,"width":148,"height":75,"color":"2"}
 	],
 	"edges":[
 		{"id":"862d873bc966b649","fromNode":"b8b2eccf77267493","fromSide":"bottom","toNode":"b53ea559f7a0b377","toSide":"top","color":"3"},
