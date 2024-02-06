@@ -4,7 +4,7 @@
 		{"id":"fdf7b670981b2363","type":"text","text":"[[Giraffe]]","x":-111,"y":-607,"width":142,"height":50,"color":"#8b4513"},
 		{"id":"3e5c441fd91c070d","type":"text","text":"[[App]]","x":68,"y":-762,"width":122,"height":50,"color":"#8b4513"},
 		{"id":"b0142d7e8ea40768","type":"text","text":"[[Input]]","x":290,"y":-380,"width":130,"height":50,"color":"#0400e6"},
-		{"id":"30f95892cb62358b","type":"text","text":"[[Keycode]]","x":280,"y":-188,"width":140,"height":50,"color":"#0400e6"},
+		{"id":"30f95892cb62358b","type":"text","text":"[[Keycode]]","x":280,"y":-188,"width":160,"height":50,"color":"#0400e6"},
 		{"id":"b8b2eccf77267493","type":"text","text":"[[main]]","x":190,"y":-920,"width":120,"height":50,"color":"#8b4513"},
 		{"id":"b53ea559f7a0b377","type":"text","text":"[[Context]]","x":679,"y":-750,"width":142,"height":50,"color":"#008000"},
 		{"id":"9b5df8ceab6b964c","type":"text","text":"[[Text]]","x":135,"y":-380,"width":131,"height":50,"color":"#0400e6"},
