@@ -11,14 +11,12 @@
             "id": "eba5eaa7cbe09317",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": 328.6780070085893,
-                  "y": -281.16728344201357,
-                  "zoom": -0.6381710945544751
-                }
+                "file": "檔案/util/Input.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "檔案/util/Input.md"
               }
             }
           },
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,10 +148,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "eba5eaa7cbe09317",
+  "active": "6ef55518df76af72",
   "lastOpenFiles": [
-    "檔案/Giraffe.md",
+    "檔案/util/Keycode.md",
     "結構圖.canvas",
+    "檔案/Giraffe.md",
     "用到的函數/GLM/scale().md",
     "檔案/util/TransformUtils.md",
     "用到的函數/GLM/ortho().md",
@@ -179,7 +178,6 @@
     "用到的函數/SDL_Timer/SDL_GetPerformanceCounter().md",
     "檔案/util/Text.md",
     "用到的函數/SDL_ttf/TTF_RenderUTF8_Blended_Wrapped().md",
-    "用到的函數/OpenGL/glBufferSubData().md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
