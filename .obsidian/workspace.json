@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "檔案/util/Input.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "檔案/util/Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md"
+                "file": "檔案/util/Input.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "用到的函數/OpenGL/glDrawElements().md",
+                "file": "檔案/util/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,11 +150,12 @@
   },
   "active": "eba5eaa7cbe09317",
   "lastOpenFiles": [
-    "檔案/core/VertexArray.md",
-    "結構圖.canvas",
-    "用到的函數/OpenGL/glTexImage2D().md",
-    "檔案/core/Texture.md",
     "檔案/util/Image.md",
+    "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glTexImage2D().md",
+    "結構圖.canvas",
+    "檔案/core/VertexArray.md",
+    "用到的函數/OpenGL/glDrawElements().md",
     "檔案/util/Input.md",
     "檔案/util/Keycode.md",
     "檔案/Giraffe.md",
@@ -168,7 +169,6 @@
     "檔案/core/Program.md",
     "用到的函數/OpenGL/glActiveTexture().md",
     "用到的函數/OpenGL/glTexParameteri().md",
-    "用到的函數/OpenGL/glDrawElements().md",
     "用到的函數/OpenGL/glEnableVertexAttribArray().md",
     "用到的函數/OpenGL/glGetProgramiv().md",
     "用到的函數/OpenGL/glValidateProgram().md",
