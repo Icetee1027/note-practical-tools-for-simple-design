@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glVertexAttribPointer().md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glVertexAttribPointer().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案/util/Input.md"
+                "file": "用到的函數/OpenGL/glVertexAttribPointer().md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案/util/Input.md",
+                "file": "用到的函數/OpenGL/glVertexAttribPointer().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,15 @@
   },
   "active": "eba5eaa7cbe09317",
   "lastOpenFiles": [
+    "檔案/core/VertexArray.md",
+    "結構圖.canvas",
+    "檔案/core/VertexBuffer.md",
+    "檔案目錄.md",
+    "檔案/util/Input.md",
     "檔案/util/Image.md",
     "檔案/core/Texture.md",
     "用到的函數/OpenGL/glTexImage2D().md",
-    "結構圖.canvas",
-    "檔案/core/VertexArray.md",
     "用到的函數/OpenGL/glDrawElements().md",
-    "檔案/util/Input.md",
     "檔案/util/Keycode.md",
     "檔案/Giraffe.md",
     "用到的函數/GLM/scale().md",
@@ -165,7 +167,6 @@
     "檔案/core/UniformBuffer.md",
     "檔案/core/Drawable.md",
     "用到的函數/OpenGL/glBindBufferBase().md",
-    "檔案目錄.md",
     "檔案/core/Program.md",
     "用到的函數/OpenGL/glActiveTexture().md",
     "用到的函數/OpenGL/glTexParameteri().md",
@@ -176,7 +177,6 @@
     "用到的函數/OpenGL/glShaderSource().md",
     "檔案/util/Time.md",
     "未命名.canvas",
-    "用到的函數/SDL_Timer/SDL_GetPerformanceCounter().md",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
     "用到的函數/spdlog",
