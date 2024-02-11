@@ -11,14 +11,12 @@
             "id": "eba5eaa7cbe09317",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "結構圖.canvas",
-                "viewState": {
-                  "x": -127.5,
-                  "y": -330,
-                  "zoom": -0.6226858470570563
-                }
+                "file": "檔案/util/SFX.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/SFX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "結構圖.canvas"
+                "file": "檔案/util/SFX.md"
               }
             }
           },
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "結構圖.canvas",
+                "file": "檔案/util/SFX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +149,8 @@
   },
   "active": "eba5eaa7cbe09317",
   "lastOpenFiles": [
-    "檔案目錄.md",
     "結構圖.canvas",
+    "檔案目錄.md",
     "用到的函數/SDL openGL擴充/SDL_GL_CreateContext().md",
     "用到的函數/OpenGL/glTexImage2D().md",
     "檔案/core/VertexArray.md",
