@@ -15,9 +15,9 @@
               "state": {
                 "file": "結構圖.canvas",
                 "viewState": {
-                  "x": -10.489517819706634,
-                  "y": -45.63731656184473,
-                  "zoom": -0.444229211993627
+                  "x": -67.32091158128189,
+                  "y": -16.653861066420404,
+                  "zoom": -0.6381710945544748
                 }
               }
             }
@@ -151,10 +151,13 @@
   },
   "active": "eba5eaa7cbe09317",
   "lastOpenFiles": [
+    "函數庫/OpenGL.md",
+    "用到的函數/SDL_Video/SDL_Window.md",
+    "用到的函數/SDL openGL擴充/SDL_GL_CreateContext().md",
+    "用到的函數/SDL openGL擴充/SDL_GL_DeleteContext().md",
+    "結構圖.canvas",
     "檔案目錄.md",
     "檔案/util/SFX.md",
-    "結構圖.canvas",
-    "用到的函數/SDL openGL擴充/SDL_GL_CreateContext().md",
     "用到的函數/OpenGL/glTexImage2D().md",
     "檔案/core/VertexArray.md",
     "檔案/core/DebugMessageCallback.md",
@@ -175,9 +178,6 @@
     "檔案/util/TransformUtils.md",
     "用到的函數/GLM/ortho().md",
     "檔案/core/UniformBuffer.md",
-    "檔案/core/Drawable.md",
-    "用到的函數/OpenGL/glBindBufferBase().md",
-    "檔案/core/Program.md",
     "未命名.canvas",
     "用到的函數/OpenGL",
     "用到的函數/GLM",
