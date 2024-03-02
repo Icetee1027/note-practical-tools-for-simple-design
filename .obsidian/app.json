@@ -3,5 +3,6 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "tabSize": 4
+  "tabSize": 4,
+  "attachmentFolderPath": "./"
 }
