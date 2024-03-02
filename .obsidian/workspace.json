@@ -26,9 +26,24 @@
             "id": "d18ef665f66ec0d8",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "結構圖.canvas",
+                "viewState": {
+                  "x": 2.1962113414736564,
+                  "y": -165.02637889688248,
+                  "zoom": -0.6381710945544748
+                }
+              }
+            }
+          },
+          {
+            "id": "23763e67d78b8d0d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "檔案目錄.md"
+                "file": "用到的函數/OpenGL/glTexImage2D().md"
               }
             }
           },
@@ -135,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "檔案目錄.md",
+                "file": "用到的函數/OpenGL/glTexImage2D().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,18 +178,19 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6ef55518df76af72",
+  "active": "23763e67d78b8d0d",
   "lastOpenFiles": [
-    "backgroundDefault.jpg",
-    "檔案目錄.md",
+    "檔案/core/Texture.md",
+    "用到的函數/OpenGL/glTexImage2D().md",
     "結構圖.canvas",
+    "檔案目錄.md",
+    "backgroundDefault.jpg",
     "未命名.canvas",
     "函數庫/OpenGL.md",
     "用到的函數/SDL_Video/SDL_Window.md",
     "用到的函數/SDL openGL擴充/SDL_GL_CreateContext().md",
     "用到的函數/SDL openGL擴充/SDL_GL_DeleteContext().md",
     "檔案/util/SFX.md",
-    "用到的函數/OpenGL/glTexImage2D().md",
     "檔案/core/VertexArray.md",
     "檔案/core/DebugMessageCallback.md",
     "用到的函數/OpenGL/glVertexAttribPointer().md",
@@ -186,7 +202,6 @@
     "用到的函數/OpenGL/glGenVertexArrays().md",
     "檔案/util/Input.md",
     "檔案/util/Image.md",
-    "檔案/core/Texture.md",
     "用到的函數/OpenGL/glDrawElements().md",
     "檔案/util/Keycode.md",
     "檔案/Giraffe.md",
